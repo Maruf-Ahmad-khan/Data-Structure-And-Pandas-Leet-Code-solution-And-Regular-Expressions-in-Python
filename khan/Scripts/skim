@@ -1,0 +1,5 @@
+#!C:\Users\mk744\Downloads\Data Structure in Python\khan\Scripts\python.exe
+__version__ = "$Id: skim,v 1.1 2003/03/05 17:14:56 dmcc Exp $"
+
+import skim
+skim.cli()
